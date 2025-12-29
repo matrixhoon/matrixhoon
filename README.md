@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/matrixhoon/matrixhoon/main/matrix.png" width="100%" />
 </p>
 
-<h1 align="center">HEY! i am Matrix..?</h1>
+<h1 align="center">Hey! i am Matrix..?</h1>
 <h3 align="center">I like dogs with human names.</h3>
 
 <p align="center">
