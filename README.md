@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000000&height=220&text=matrixhoon&fontColor=ffffff&fontSize=42" />
+</p>
 
-<!--
-**matrixhoon/matrixhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">YO! it's matrixhoon 👋</h1>
+<p align="center"><i>building stuff nobody asked for.</i></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matrixhoon&style=flat-square&color=grey" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+🔹 **Your project name here**  
+_short description goes here_
+
+<p align="center"><b>if you like it, star it..?</b></p>
