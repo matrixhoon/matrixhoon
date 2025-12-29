@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matrixhoon/matrixhoon/main/tech.jpg" width="100%" />
+  <img src="oooo.png" alt="oooo" width="100%" />
 </p>
 
-<h1 align="center">Hey! i am Matrix 👋</h1>
-<h3 align="center">I like dogs with human names..</h3>
+<h1 align="center">YO! it's Shelby..?</h1>
+<h3 align="center">writing stories no one will read.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matrixhoon&label=Profile%20Views&color=grey&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=whoshelby&label=Profile%20Views&color=grey&style=flat" alt="Profile Views">
 </p>
 
 <br>
 
-<!-- LIVE Discord Profile Card (SAME AS SHELBY) -->
-<p align="center">
-  <a href="https://discord.com/users/1225388816047804486">
-    <img src="https://lanyard.cnrad.dev/api/1225388816047804486?theme=dark&idleMessage=Not your type..!&showDisplayName=true&hideBadges=false&bg=000000">
-  </a>
-</p>
+<div>
+  <p align="center">
+    <a href="https://discord.com/users/452082030180565002">
+      <img src="https://lanyard.cnrad.dev/api/452082030180565002?theme=dark&idleMessage=thinking%20quietly.&showDisplayName=false&hideBadges=false&bg=000000">
+    </a>
+  </p>
+</div>
 
 <br>
-
 
 <hr>
 
