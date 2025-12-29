@@ -11,7 +11,7 @@
 
 <br>
 
-<!-- Discord Badge (100% WORKING, no break) -->
+<!-- Discord Hybrid Badge (ALWAYS WORKS) -->
 <p align="center">
   <a href="https://discord.com/users/1225388816047804486">
     <img src="https://img.shields.io/badge/Discord-Matrix-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
