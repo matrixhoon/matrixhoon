@@ -11,14 +11,12 @@
 
 <br>
 
-<!-- Discord Card (FIXED – works even if offline/invisible) -->
-<div>
-  <p align="center">
-    <a href="https://discord.com/users/1225388816047804486">
-      <img src="https://lanyard.cnrad.dev/api/1225388816047804486?theme=dark&hideStatus=true&hideBadges=false&bg=000000">
-    </a>
-  </p>
-</div>
+<!-- Discord Badge (100% WORKING, no break) -->
+<p align="center">
+  <a href="https://discord.com/users/1225388816047804486">
+    <img src="https://img.shields.io/badge/Discord-Matrix-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
@@ -35,5 +33,5 @@
 <hr>
 
 <p align="center">
-  <em>quietly building things i probably shouldn’t.</em>
+  <em>quietly building things, learning as i go.</em>
 </p>
