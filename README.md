@@ -20,15 +20,6 @@
 
 <br>
 
-<div align="center">
-  <h3>Featured Project</h3>
-  <p>
-    <a href="https://github.com/matrixhoon/Flux-Nuker">
-      <code>Flux Nuker</code>
-    </a>
-    <sub> - Fastest Discord server nuker written in Python.</sub>
-  </p>
-</div>
 
 <hr>
 
