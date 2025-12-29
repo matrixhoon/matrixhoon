@@ -14,7 +14,7 @@
 <!-- LIVE Discord Profile Card (SAME AS SHELBY) -->
 <p align="center">
   <a href="https://discord.com/users/1225388816047804486">
-    <img src="https://lanyard.cnrad.dev/api/1225388816047804486?theme=dark&idleMessage=Chilling...!&showDisplayName=true&hideBadges=false&bg=000000">
+    <img src="https://lanyard.cnrad.dev/api/1225388816047804486?theme=dark&idleMessage=Not your type..!&showDisplayName=true&hideBadges=false&bg=000000">
   </a>
 </p>
 
