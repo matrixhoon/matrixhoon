@@ -1,18 +1,38 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000000&height=220&text=matrixhoon&fontColor=ffffff&fontSize=42" />
+  <img src="https://raw.githubusercontent.com/matrixhoon/matrixhoon/main/tech.jpg" width="100%" />
 </p>
 
-<h1 align="center">YO! it's matrixhoon 👋</h1>
-<p align="center"><i>building stuff nobody asked for.</i></p>
+<h1 align="center">Hey! i am Matrix 👋</h1>
+<h3 align="center">I like dogs with human names..</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matrixhoon&style=flat-square&color=grey" />
+  <img src="https://komarev.com/ghpvc/?username=matrixhoon&label=Profile%20Views&color=grey&style=flat" alt="Profile Views">
 </p>
 
----
+<br>
 
-## 🚀 Featured Project
-🔹 **Your project name here**  
-_short description goes here_
+<div>
+  <p align="center">
+    <a href="https://discord.com/users/1225388816047804486">
+      <img src="https://lanyard.cnrad.dev/api/1225388816047804486?theme=dark&idleMessage=Chilling...!&showDisplayName=false&hideBadges=false&bg=000000">
+    </a>
+  </p>
+</div>
 
-<p align="center"><b>if you like it, star it..?</b></p>
+<br>
+
+<div align="center">
+  <h3>Featured Project</h3>
+  <p>
+    <a href="https://github.com/matrixhoon/Flux-Nuker">
+      <code>Flux Nuker</code>
+    </a>
+    <sub> - Fastest Discord server nuker written in Python.</sub>
+  </p>
+</div>
+
+<hr>
+
+<p align="center">
+  <strong>if you like it, star it..?</strong>
+</p>
