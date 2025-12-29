@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="oooo.png" alt="oooo" width="100%" />
+  <img src="https://raw.githubusercontent.com/matrixhoon/matrixhoon/main/matrix.png" width="100%" />
 </p>
 
 <h1 align="center">HEY! i am Matrix..?</h1>
