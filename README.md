@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">HEY! i am Matrix..?</h1>
-<h3 align="center">writing stories no one will read.</h3>
+<h3 align="center">I like dogs with human names.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matrixhoon&label=Profile%20Views&color=grey&style=flat" alt="Profile Views">
