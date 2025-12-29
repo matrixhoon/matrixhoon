@@ -11,10 +11,11 @@
 
 <br>
 
+<!-- Discord Card (FIXED – works even if offline/invisible) -->
 <div>
   <p align="center">
     <a href="https://discord.com/users/1225388816047804486">
-      <img src="https://lanyard.cnrad.dev/api/1225388816047804486?theme=dark&idleMessage=Chilling...!&showDisplayName=false&hideBadges=false&bg=000000">
+      <img src="https://lanyard.cnrad.dev/api/1225388816047804486?theme=dark&hideStatus=true&hideBadges=false&bg=000000">
     </a>
   </p>
 </div>
@@ -34,5 +35,5 @@
 <hr>
 
 <p align="center">
-  <strong>if you like it, star it..?</strong>
+  <em>quietly building things i probably shouldn’t.</em>
 </p>
